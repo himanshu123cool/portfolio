@@ -1,15 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.419c7fb7.css",
-    "main.js": "/portfolio/static/js/main.c573e04f.js",
+    "main.css": "/portfolio/static/css/main.d5673022.css",
+    "main.js": "/portfolio/static/js/main.7e406c34.js",
     "static/media/resume2.pdf": "/portfolio/static/media/resume2.0fffe13aa32b3cb62625.pdf",
     "static/media/logo.webp": "/portfolio/static/media/logo.2272dbbf29bb18fb1171.webp",
+    "static/media/physics.svg": "/portfolio/static/media/physics.9f346737f90166a0ff8427fe5b190ec9.svg",
+    "static/media/css.svg": "/portfolio/static/media/css.4c94f400ff80a8d86768efa0d89d0318.svg",
+    "static/media/jquery-original-wordmark.svg": "/portfolio/static/media/jquery-original-wordmark.4e23ad4c4ac3ac602b7b33014c736be8.svg",
+    "static/media/html-5.svg": "/portfolio/static/media/html-5.0828b827764fadd7d7917ab43e856bb3.svg",
+    "static/media/shopify.svg": "/portfolio/static/media/shopify.b813d9c7b7a20c184c2a98a821e27813.svg",
+    "static/media/wordpress.svg": "/portfolio/static/media/wordpress.6c86c4d7181cafc8b3bc67a9f91c1a10.svg",
+    "static/media/figma.svg": "/portfolio/static/media/figma.1d8b699b605a0f03c42c0dd939fe842b.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.dc6e09f376aa7d2fa7d2d5e9158eaf80.svg",
+    "static/media/js.svg": "/portfolio/static/media/js.e7d3fa96ce989ea5a3abb11d13e7c4d5.svg",
+    "static/media/bootstrap.svg": "/portfolio/static/media/bootstrap.6a305f7c00ab1410b74376f443e30086.svg",
     "index.html": "/portfolio/index.html",
-    "main.419c7fb7.css.map": "/portfolio/static/css/main.419c7fb7.css.map",
-    "main.c573e04f.js.map": "/portfolio/static/js/main.c573e04f.js.map"
+    "main.d5673022.css.map": "/portfolio/static/css/main.d5673022.css.map",
+    "main.7e406c34.js.map": "/portfolio/static/js/main.7e406c34.js.map"
   },
   "entrypoints": [
-    "static/css/main.419c7fb7.css",
-    "static/js/main.c573e04f.js"
+    "static/css/main.d5673022.css",
+    "static/js/main.7e406c34.js"
   ]
 }
